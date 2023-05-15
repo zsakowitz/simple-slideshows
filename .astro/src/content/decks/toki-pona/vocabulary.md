@@ -375,40 +375,19 @@ Try it below!
 <div class="text-sm -my-4">
 
 $$
-\boxed{
-  \begin{align*}
-    sewi \atop
-    \text{up}
-  \end{align*}
-} \\
+\begin{align*}
+&\boxed{sewi \atop \text{up}} \\
 
-\text{} \\
+\boxed{monsi \atop \text{back}}
+\space\space\space&\space
+\space\space\space\space
+\space\space\space\space
+\space\space\space\space
+\space\space
+\boxed{sinpin \atop \text{front}} \\
 
-\boxed{
-  \begin{align*}
-    monsi \atop
-    \text{back}
-  \end{align*}
-} \space\space\space\space \textcolor{transparent}{\boxed{
-  \begin{align*}
-    poka \atop
-    \text{side}
-  \end{align*}
-}} \space\space\space\space \boxed{
-  \begin{align*}
-    sinpin \atop
-    \text{front}
-  \end{align*}
-} \\
-
-\text{} \\
-
-\boxed{
-  \begin{align*}
-    anpa \atop
-    \text{down}
-  \end{align*}
-}
+&\boxed{anpa \atop \text{down}}
+\end{align*}
 $$
 
 </div>

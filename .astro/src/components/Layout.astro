@@ -1,6 +1,7 @@
 ---
 import type { CollectionEntry } from "astro:content"
 import "../lib/global.postcss"
+import Highlighter from "./Highlighter.astro"
 
 interface Props {
   deck: CollectionEntry<"decks"> | undefined
@@ -24,8 +25,4 @@ interface Props {
   </body>
 </html>
 
-{
-  Astro.props.deck?.data.category == "toki pona" && (
-    <script src="../lib/highlighter.ts" />
-  )
-}
+{Astro.props.deck?.data.category == "toki pona" && <Highlighter />}
