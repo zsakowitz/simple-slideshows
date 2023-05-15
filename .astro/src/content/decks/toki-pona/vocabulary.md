@@ -1,3 +1,7 @@
+---
+category: toki pona
+---
+
 # Vocabulary
 
 A comprehensive list of all commonly accepted toki pona words.

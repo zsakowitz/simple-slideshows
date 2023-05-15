@@ -24,4 +24,8 @@ interface Props {
   </body>
 </html>
 
-<script src="../lib/highlighter.ts"></script>
+{
+  Astro.props.deck?.data.category == "toki pona" && (
+    <script src="../lib/highlighter.ts" />
+  )
+}

@@ -1,3 +1,7 @@
+---
+category: toki pona
+---
+
 # Introduction to toki pona
 
 Learn the world's simplest language.
